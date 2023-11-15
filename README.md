@@ -31,3 +31,6 @@
 
 Скриншот-1 к заданию 2:
 ![Скриншот-1](https://github.com/kshatyy/rxync/blob/main/img/2-1.png)
+
+Скриншот-2 к заданию 2:
+![Скриншот-1](https://github.com/kshatyy/rxync/blob/main/img/2-2.png)
